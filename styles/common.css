@@ -1,0 +1,57 @@
+.about__title,
+.skills__title,
+.hobbies__title,
+.academic__title,
+.experience__section__title,
+.formcontato__title {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.skills__name,
+.hobbies__name {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.menu__list__item,
+.title__network__item,
+.experience__text,
+.academic__courses__item__subtitle,
+.formcontato__subtext,
+.footer__rodape {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.academic__courses__item__title,
+.experience__title {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.experiencia__botao--repo
+{
+    padding: 16px;
+    border: 1px solid ; /* La propiedad 'border' necesita un color y puede ser solid, dashed, etc. */
+    border-color: #2A7AE4;
+    color:#2A7AE4;
+    font-family: raleway;
+}
+
+.experience__botao--demo,
+.formcontato__botao{
+    padding: 16px;
+    border: 1px solid ; /* La propiedad 'border' necesita un color y puede ser solid, dashed, etc. */
+    border-color: #2A7AE4;
+    background-color: #2A7AE4;
+    color:#FFFFFF;
+    font-family: raleway;
+    white-space: nowrap;
+}
+
+.about__container,
+.academic,
+.formcontato__contacto{
+    background-color: #EAF2FD; /* Color de fondo para la caja */
+}
